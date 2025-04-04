@@ -1,0 +1,21 @@
+{
+    "name": "authmatech-mobile-check",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@headlessui/react": "^2.2.0",
+        "axios": "^1.6.5",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^7.4.1"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.1.0",
+        "vite": "^4.4.9"
+    }
+}
